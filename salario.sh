@@ -76,3 +76,5 @@ calculo
 echo -e "\n${grayColour}---> Esto es un plan de administracion financiera que puedes ejecutar en base a tu quincena${endColour}"
 
 pAhorro
+
+echo -e "\nBy -> ADG / MIDESMIS\n"
